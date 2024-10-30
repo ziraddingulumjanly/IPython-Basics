@@ -1,7 +1,7 @@
 
 # IPython Tutorial Examples
 
-$$\Huge \text{ipython}$$
+$$\LARGE \text{ipython}$$
 
 
 This repository provides basic/brief practical guidance for using IPython within Visual Studio Code, aimed at enhancing interactive coding and documentation access.
