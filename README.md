@@ -1,7 +1,9 @@
 
 # IPython Tutorial Examples
 
-$$IPython$$
+<span style="font-size: 2em;">ipython</span>
+
+
 This repository provides basic/brief practical guidance for using IPython within Visual Studio Code, aimed at enhancing interactive coding and documentation access.
 
 ## Contents
